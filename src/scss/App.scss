@@ -1,0 +1,25 @@
+@import './_variables.scss';
+
+/* Bar Chart */
+
+.bar {
+    width: $lg;
+    border: 1px solid $dark-cyan;
+    background-image: linear-gradient(yellow, blue);
+
+    &-chart {
+        display: flex;
+        gap: 50px;
+    }
+
+    &-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-end;
+    }
+
+    &-tag {
+        text-align: center;
+    }
+}

@@ -17,3 +17,7 @@ Currently, two official plugins are available:
 2. In the terminal, type `npm run dev`.
 3. Click on the dev link seen in the terminal.
 4. You are ready to see the timely refrehsed page in the dev environment whenever you save the codes!
+
+### Screenshot
+
+![Result](./result-screenshot.png)
